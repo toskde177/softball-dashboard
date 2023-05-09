@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksoftball_dashboard"]=self["webpackChunksoftball_dashboard"]||[]).push([[443],{1272:function(s,t,a){a.r(t),a.d(t,{default:function(){return f}});var n=function(){var s=this;s._self._c;return s._m(0)},u=[function(){var s=this,t=s._self._c;return t("div",{staticClass:"about"},[t("h1",[s._v("This is an about page")])])}],l=a(1001),r={},e=(0,l.Z)(r,n,u,!1,null,null,null),f=e.exports}}]);
+//# sourceMappingURL=about.30018d1a.js.map
